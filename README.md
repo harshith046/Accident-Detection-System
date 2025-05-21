@@ -1,4 +1,4 @@
-# 🚗 Accident Detection System – Arduino & Blynk IoT
+# Accident Detection System
 
 ## 📌 About the Project
 
